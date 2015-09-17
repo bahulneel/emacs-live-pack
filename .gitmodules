@@ -1,0 +1,6 @@
+[submodule "powerline"]
+	path = powerline
+	url = ./lib/powerline
+[submodule "lib/powerline"]
+	path = lib/powerline
+	url = https://github.com/milkypostman/powerline
